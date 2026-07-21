@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-0whmgb.leogaming.cfd/sitemap.xml
